@@ -1,0 +1,19 @@
+1 lode data csv file and print top 10 record of it  
+
+2 sort the dta age column
+
+3.remove empty data from the file
+
+
+4.draw a line chart for any 2 col
+
+5. sort the data on credit score col and 
+
+draw a pie chart customie color 
+
+find the cus hving slry gret 75000
+
+find mean/meadin of cus balnce
+
+
+draw a scatter grap
